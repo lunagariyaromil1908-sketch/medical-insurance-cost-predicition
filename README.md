@@ -8,3 +8,4 @@ An AI chatbot that answers questions from class notes.
 
 ## Team
 - Lunagariya Romil (569)
+
